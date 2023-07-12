@@ -20,17 +20,19 @@
     </a>
     <div id="tswcontainer"><a href="sitemap.html"> </a>
       <div id="tswcontent"><a href="sitemap.html"> </a>
-        <div id="tswcontproper"><a href="sitemap.html">
-            <!-- start of content column: insert your content here -->&nbsp;
-            <h1 style="width: 763px; height: 790px;"><a href="sitemap.html"><img
-                  src="https://media.pitchfork.com/photos/6499a323efe6e8e960f8f48a/master/pass/Veeze-Ganger.jpg"
-                  style="width: 865px; height: 808px;"></a></h1>
-            <h1>Welcome freeband World!</h1>
-            <h>
-              <p> </p>
-              <p>&nbsp;</p>
-            </h></a>
-          <p><a href="sitemap.html"></a><a href="?https://www.instagram.com/freebandzwik/?next=%2F"
+        <div id="tswcontproper"><a href="sitemap.html"> <!-- start of content column: insert your content here -->&nbsp;
+            </a><h1 style="width: 763px; height: 790px;"><a href="sitemap.html"></a><a
+
+              href="sitemap.html"><img src="https://media.pitchfork.com/photos/6499a323efe6e8e960f8f48a/master/pass/Veeze-Ganger.jpg"
+
+                style="width: 865px; height: 808px;"></a></h1>
+          <h1>Welcome freeband World!</h1>
+          <h>
+            <p> </p>
+            <p>&nbsp;</p>
+          </h>
+          <p><a href="sitemap.html"></a><a href="?https://www.instagram.com/freebandzwik/?next=%2F"
+
               title="Instagram"> instagram</a><br>
           </p>
           <!-- end of content column: put your content above this line --> </div>
@@ -42,7 +44,7 @@
               <li><a href="index.html">Home</a> </li>
               <li><a href="https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn?si=cw65ZAQkRLytlih3DxDTYw">The
                   Anthem</a></li>
-              <li><a href="mytown.html">Your Thoughts</a></li>
+              <li><a href="mytown.html"> About</a></li>
             </ul>
           </div>
         </div>
