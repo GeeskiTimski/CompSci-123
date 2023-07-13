@@ -87,13 +87,13 @@ h1{
 
 #cube .right { 
     transform:
-   rotateX(90deg)
+   rotateY(90deg)
     translateZ(100px);
 }
 
 #cube .left { 
     transform:
-   rotateX(-90deg)
+   rotateY(-90deg)
    translateZ(100px);
 }
 
