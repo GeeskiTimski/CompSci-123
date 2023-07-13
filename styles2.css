@@ -25,8 +25,17 @@ div#tswcontent {
 	background-color: #F9EBEA ;
 }
 div#tswcontproper {
-	padding-left: 5px ;
-	padding-right: 5px ;
+	@media screen and (max-width: 999px)
+.scroller__inner {
+    padding-bottom: 20px;
+    margin-bottom: -20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    -ms-scroll-snap-type: x mandatory;
+    scroll-snap-type: x mandatory;
+    white-space: nowrap;
+}
 }
 div#tswcontainer {
 	color: inherit ;
