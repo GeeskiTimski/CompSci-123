@@ -22,7 +22,7 @@ div#tswcontent {
 	width: 100% ;
 	max-width: 100% ;
 	color: 249, 235, 234 ;
-	background-color: #F9EBEA ;
+	background-color: #8b4141 ;
 }
 div#tswcontproper {
 	@media screen and (max-width: 999px)
@@ -40,4 +40,21 @@ div#tswcontproper {
 div#tswcontainer {
 	color: inherit ;
 	background-color: inherit ;
+}
+
+#myHat {
+    animation-name: myHatAnimate;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes myHatAnimate {
+    0%, 100% {
+        opacity: 100%;
+        width: 50%;
+    }
+    50% {
+        opacity: 10%;
+        width: 10%;
+    }
 }
