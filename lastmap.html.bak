@@ -15,7 +15,7 @@
           <!-- start of content column: insert your content here -->
           <h1>Freeband Trucker Wholesale!</h1>
           <p> </p>
-          <h1> <img src="https://shop.dividetheyouth.com/cdn/shop/products/11_WHITE_DTY_LOGO_HAT_1_110x110@2x.png?v=1653011263%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20style=">
+          <h1> <img id="myHat"src="https://shop.dividetheyouth.com/cdn/shop/products/11_WHITE_DTY_LOGO_HAT_1_110x110@2x.png?v=1653011263%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20style=">
             <img src="https://cdn.shopify.com/s/files/1/1498/2894/products/two-tone-trucker-hats-pink-blank-trucker-cap-2.jpg?v=1506519706"
 
               style="width: 200px; height: 200px;">
@@ -55,12 +55,13 @@
               </div>
             </div>
           </h1>
-          <img src="https://shop.dividetheyouth.com/cdn/shop/products/3_BLACK_LAST_TIME_I_CHECKED_HAT_1_1024x1024@2x.png?v=1653011332"
+          <img id="myHat" src="https://shop.dividetheyouth.com/cdn/shop/products/3_BLACK_LAST_TIME_I_CHECKED_HAT_1_1024x1024@2x.png?v=1653011332"
 
             style="width: 200px; height: 200px;"> <img src="https://www.wynnheadwear.com/cdn/shop/products/IMG_6043.png?v=1652164460&amp;width=1946"
 
             style="width: 200px; height: 200px;">
           <div>
+            <h1>
             <div class="yoYiG">
               <div nordcountrycode="US" class="GmKV9 KCp6h undefined">
                 <div class="KCp6h S_wH0">
@@ -92,7 +93,8 @@
 
                       fill="#393939"></path></svg><span class="dls-1n7v84y">Free
                     shipping</span>&nbsp;</span></div>
-            </div>
+              </div>
+           <div>
           </div>
           <h1> <img id="myHat" src="https://shop.dividetheyouth.com/cdn/shop/products/9_RED_DTY_LOGO_HAT_1_110x110@2x.png?v=1653011299/p">
             <img src="https://shop.dividetheyouth.com/cdn/shop/products/7_BROWN_DTY_LOGO_HAT_1_110x110@2x.png?v=1653011019%0A%20%20%20%20%20%20%20%20%20%20%3Cp%3E%20https://cdn.shopify.com/s/files/1/1498/2894/products/two-tone-trucker-hats-pink-blank-trucker-cap-2.jpg?v=1506519706">
@@ -132,8 +134,7 @@
             </div>
             <p>&nbsp;</p>
             <!-- end of content column: put your content above this line --> </h1>
-        </div>
+              <div>
       </div>
-    </div>
   </body>
 </html>

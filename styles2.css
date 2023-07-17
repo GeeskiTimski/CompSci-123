@@ -50,7 +50,7 @@ div#tswcontainer {
 
 @keyframes myHatAnimate {
     0%, 100% {
-        opacity: 100%;
+        opacity: 50%;
         width: 50%;
     }
     50% {
