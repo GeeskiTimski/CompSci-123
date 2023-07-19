@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style> 
-       
+       style="background-color:" to the <body> element
      body 
            
     
@@ -31,14 +31,12 @@
 </div>
      
        
-</style> 
- 
-  </head>
-  <body> <a href="https://users.wpi.edu/%7Etogundele/">Home</a>
+</style> </head>
+  <body style="background-color: rgb(100,100,100)"> <a href="https://users.wpi.edu/%7Etogundele/">Home</a>
     <h1>Yo! </h1>
     <p>This website was created by the one and only Big Dawg T.</p>
     <a href="https://www.youtube.com/watch?v=dGgBzSfgVsA"> <img src="yatch.png"
-                                                                
-    style="width: 880px; height: 808px;"></a>
+
+        style="width: 900x; height: 805px;"></a>
   </body>
 </html>
